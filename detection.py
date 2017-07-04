@@ -1,4 +1,4 @@
-# Steve Mitchell
+# Marisa Mitchell
 # June 2017
 
 import numpy as np
